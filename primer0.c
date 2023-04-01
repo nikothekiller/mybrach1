@@ -8,7 +8,7 @@
 
 static void fun(void)
 {
-	printf("this is fun void");
+	printf("this is fun void111");
 }
 
 int main()
