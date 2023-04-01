@@ -10,6 +10,7 @@ static void fun(void)
 {
 	printf("this is fun void111");
 	printf("my branch 0");
+	printf("my branch 1");
 }		
 
 int main()
