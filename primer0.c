@@ -4,6 +4,13 @@
 #define LEFT 3
 #define RIGHT 1000
 
+
+
+static void fun(void)
+{
+	printf("this is fun void");
+}
+
 int main()
 {	
 	int i,j;
@@ -23,7 +30,8 @@ int main()
 		if(mark)
 			printf("%d is a primr\n",i);
 	}
-
+	
+	fun1();
 
 	exit(0);
 }
